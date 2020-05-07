@@ -18,3 +18,17 @@ https://www.acmicpc.net/problem/1038
 https://programmers.co.kr/learn/courses/30/lessons/43105
 
 -----------------------------------
+
+3주차 문제 (2020.04.30 ~ 2020.05.07)  
+boj 2618번 : 경찰차
+
+https://www.acmicpc.net/problem/2618
+
+-----------------------------------
+
+4주차 문제 (2020.05.07 ~ 2020.05.14)  
+프로그래머스 DP 문제 : 도둑질
+
+https://programmers.co.kr/learn/courses/30/lessons/42897
+
+-----------------------------------
