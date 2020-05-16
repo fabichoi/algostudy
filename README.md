@@ -32,3 +32,12 @@ https://www.acmicpc.net/problem/2618
 https://programmers.co.kr/learn/courses/30/lessons/42897
 
 -----------------------------------
+
+5주차 문제 (2020.05.15 ~ 2020.05.22)  
+boj 1660번 : 캡틴 이다솜
+
+https://www.acmicpc.net/problem/1660
+
+-----------------------------------
+
+
