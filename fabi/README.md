@@ -1,7 +1,7 @@
 WEEK | MON  | TUE  | WED  | THU  | FRI  | SAT  | SUN
 ---- | ---- | ---- | ---- | ---- | ---- | ---- | ----
 19th |      |      |      | DONE | DONE | DONE | DONE
-20th | DONE | DONE | DONE | PASS | PASS | DONE | DONE
+20th | DONE | DONE | DONE | skip | skip | DONE | DONE
 21st | DONE | DONE | DONE | DONE | DONE | DONE | DONE
 22nd |      |      |      |      |      |      |     
 23rd |      |      |      |      |      |      |     
