@@ -1,7 +1,9 @@
+# 출석부 - 2020.05.07(2020년 19주차 목요일)부터 시작
+
 WEEK | MON  | TUE  | WED  | THU  | FRI  | SAT  | SUN
 ---- | ---- | ---- | ---- | ---- | ---- | ---- | ----
 19th |      |      |      | DONE | DONE | DONE | DONE
-20th | DONE | DONE | DONE | skip | skip | DONE | DONE
+20th | DONE | DONE | DONE |      |      | DONE | DONE
 21st | DONE | DONE | DONE | DONE | DONE | DONE | DONE
 22nd |      |      |      |      |      |      |     
 23rd |      |      |      |      |      |      |     
