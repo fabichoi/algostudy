@@ -5,7 +5,7 @@ WEEK | MON  | TUE  | WED  | THU  | FRI  | SAT  | SUN
 19th |      |      |      | DONE | DONE | DONE | DONE
 20th | DONE | DONE | DONE |      |      | DONE | DONE
 21st | DONE | DONE | DONE | DONE | DONE | DONE | DONE
-22nd | DONE |      |      |      |      |      |
+22nd | DONE |      | DONE |      |      |      |
 23rd |      |      |      |      |      |      |     
 24th |      |      |      |      |      |      |     
 25th |      |      |      |      |      |      |     
