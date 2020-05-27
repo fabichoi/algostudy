@@ -16,7 +16,8 @@
 > 
 > 101<span style="color:red">0</span>  
 > 100<span style="color:red">1</span>  
-> 100<span style="color:red">0</span>. 
+> 100<span style="color:red">0</span>  
+
 **점화식**
 
 ```text
