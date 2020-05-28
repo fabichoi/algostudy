@@ -1,4 +1,4 @@
-# 6-2 week  
+# 7 week  
 [신기한 키보드](https://www.acmicpc.net/problem/1796)
 
 ## 문제 풀이
