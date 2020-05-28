@@ -1,4 +1,4 @@
-# 6-1 week  
+# 6 week  
 [이친수](https://www.acmicpc.net/problem/2193)
 
 ## 문제 풀이
