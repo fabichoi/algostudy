@@ -7,7 +7,7 @@ WEEK | MON  | TUE  | WED  | THU  | FRI  | SAT  | SUN
 21st | DONE | DONE | DONE | DONE | DONE | DONE | DONE
 22nd | DONE |      | DONE | DONE | DONE | DONE | DONE
 23rd | DONE | DONE | DONE | DONE | DONE | DONE | DONE
-24th |      |      |      |      |      |      |     
+24th | DONE |      |      |      |      |      |     
 25th |      |      |      |      |      |      |     
 26th |      |      |      |      |      |      |     
 27th |      |      |      |      |      |      |     
