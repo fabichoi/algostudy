@@ -3,10 +3,36 @@
 n = 6
 l = [10, 20, 15, 25, 10, 20]
 
-def solve():
-    pass
+def solve(n, l):
+    s = [0 for _ in range(n+1)]
+    l = [0] + l
 
-solve()
+    if n == 1:
+        return l[1]
+
+    if n == 2:
+        return l[1] + l[2]
+
+    s[1] = l[1]
+    s[2] = l[1] + l[2]
+
+    for j in range(3, n+1):
+        noJump = l[j] + l[j-1] + s[j-3]
+        jump = l[j] + s[j-2]
+
+        if noJump > jump:
+            s[j] = noJump
+        else:
+            s[j] = jump
+
+    return s[n]
+
+n = int(input())
+l = []
+for _ in range(n):
+    l.append(int(input()))
+
+print(solve(n, l))
 
 # boj2193.py
 '''
