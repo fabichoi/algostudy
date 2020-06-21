@@ -1,5 +1,7 @@
-# boj2579
 
+
+# boj2579
+'''
 n = 6
 l = [10, 20, 15, 25, 10, 20]
 
@@ -33,6 +35,7 @@ for _ in range(n):
     l.append(int(input()))
 
 print(solve(n, l))
+'''
 
 # boj2193.py
 '''
