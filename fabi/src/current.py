@@ -1,5 +1,41 @@
-# boj11066
+# boj2879
 
+
+def judge(i1, i2):
+    i3 = i1 * i2
+    if i3 > 0:
+        return 1
+    elif i3 < 0:
+        return -1
+    else:
+        return 0
+
+n = int(input())
+l1 = list(map(int, input().split(' ')))
+l2 = list(map(int, input().split(' ')))
+l3 = []
+for z1, z2 in zip(l1, l2):
+    l3.append(z1-z2)
+
+res = 0
+stop = False
+tl = []
+
+for i in range(n):
+    if i == 0:
+        stop = False
+    else:
+        if judge(l3[i-1], l3[i]) <= 0:
+            stop = True
+    if stop:
+        res += max(tl)
+        tl = [abs(l3[i])]
+        stop = False
+    else:
+        tl.append(abs(l3[i]))
+
+res += abs(max(tl))
+print(res)
 
 
 # boj2579
