@@ -1,5 +1,6 @@
 # boj2879
 
+import sys
 
 def judge(i1, i2):
     i3 = i1 * i2
@@ -10,9 +11,9 @@ def judge(i1, i2):
     else:
         return 0
 
-n = int(input())
-l1 = list(map(int, input().split(' ')))
-l2 = list(map(int, input().split(' ')))
+n = int(sys.stdin.readline())
+l1 = list(map(int, sys.stdin.readline().split()))
+l2 = list(map(int, sys.stdin.readline().split()))
 l3 = []
 for z1, z2 in zip(l1, l2):
     l3.append(z1-z2)
@@ -36,6 +37,7 @@ for i in range(n):
 
 res += abs(max(tl))
 print(res)
+
 
 
 # boj2579
