@@ -13,7 +13,7 @@ WEEK | MON  | TUE  | WED  | THU  | FRI  | SAT  | SUN
 27th | DONE | DONE | DONE | DONE | DONE | DONE | DONE
 28th | DONE | DONE | DONE |      |      | DONE | DONE
 29th | DONE | DONE | DONE | DONE | DONE |      | DONE
-30th | DONE | DONE |      |      |      |      |     
+30th | DONE | DONE |      | DONE |      |      |     
 31st |      |      |      |      |      |      |     
 32nd |      |      |      |      |      |      |     
 33rd |      |      |      |      |      |      |     
