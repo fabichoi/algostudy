@@ -1,3 +1,19 @@
+#boj 11048
+
+import sys
+
+n, m = map(int, sys.stdin.readline().split())
+li = [[0 for _ in range(m+1)]]
+for i in range(n):
+    li.append([0] + list(map(int, sys.stdin.readline().split())))
+
+for y in range(1,n+1):
+    for x in range(1,m+1):
+        li[y][x] += max(li[y-1][x], li[y-1][x-1], li[y][x-1])
+
+print(li[n][m])
+
+'''
 # boj2879
 
 import sys
@@ -37,7 +53,7 @@ for i in range(n):
 
 res += abs(max(tl))
 print(res)
-
+'''
 
 
 # boj2579

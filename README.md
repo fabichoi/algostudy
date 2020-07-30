@@ -87,6 +87,10 @@ https://www.acmicpc.net/problem/6869
 -----------------------------------
 
 15, 16주차 문제 (2020.07.24 ~ 2020.08.06)
-boj 15486번 : 퇴사 2
+boj 11048 : 이동하기
 
-https://www.acmicpc.net/problem/15486
+https://www.acmicpc.net/problem/11048
+
+boj 3943 : 헤일스톤 수열
+
+https://www.acmicpc.net/problem/3943
