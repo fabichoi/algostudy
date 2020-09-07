@@ -20,7 +20,7 @@ WEEK | MON  | TUE  | WED  | THU  | FRI  | SAT  | SUN
 34th |      | DONE |      | DONE |      |      | DONE
 35th | DONE | DONE |      | DONE |      | DONE | DONE
 36th |      |      |      |      | DONE | DONE |     
-37th |      |      |      |      |      |      |     
+37th | DONE |      |      |      |      |      |     
 38th |      |      |      |      |      |      |     
 39th |      |      |      |      |      |      |     
 40th |      |      |      |      |      |      |     
