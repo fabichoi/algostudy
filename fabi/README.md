@@ -21,18 +21,3 @@ WEEK | MON  | TUE  | WED  | THU  | FRI  | SAT  | SUN
 35th | DONE | DONE |      | DONE |      | DONE | DONE
 36th |      |      |      |      | DONE | DONE |     
 37th | DONE |      |      |      |      |      |     
-38th |      |      |      |      |      |      |     
-39th |      |      |      |      |      |      |     
-40th |      |      |      |      |      |      |     
-41st |      |      |      |      |      |      |     
-42nd |      |      |      |      |      |      |     
-43rd |      |      |      |      |      |      |     
-44th |      |      |      |      |      |      |     
-45th |      |      |      |      |      |      |     
-46th |      |      |      |      |      |      |     
-47th |      |      |      |      |      |      |     
-48th |      |      |      |      |      |      |     
-49th |      |      |      |      |      |      |     
-50th |      |      |      |      |      |      |     
-51st |      |      |      |      |      |      |     
-52nd |      |      |      |      |      |      |     
